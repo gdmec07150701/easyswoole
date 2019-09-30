@@ -1,0 +1,8 @@
+[2019-09-12 16:52:30 $188.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-12 16:52:59 $188.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-12 16:53:18 #187.1]	INFO	Server is shutdown now
+[2019-09-12 16:53:18 $188.0]	WARNING	swManager_loop: cannot reload task workers, task workers is not started
+[2019-09-12 17:40:52 *318.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=1] does not exists
+[2019-09-12 17:40:53 *319.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=2] does not exists
+[2019-09-12 17:49:32 *400.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Mysqli\Mysqli' not found in /var/www/code/App/Utility/Pool/MysqlObject.php on line 11
+[2019-09-12 17:49:32 $398.0]	WARNING	swManager_check_exit_status: worker#0[pid=400] abnormal exit, status=255, signal=0
